@@ -1,6 +1,5 @@
 # 东莞理工疫情自动打卡助手
 
-
 ### 贡献者名单
 按首次参与项目的时间顺序排序
 - [Bertramoon](https://github.com/Bertramoon )
